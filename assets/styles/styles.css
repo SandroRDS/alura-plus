@@ -12,13 +12,15 @@
     --azul-botao-acionado: #1262C4;
     --cinza-botao-acionado: #b5b5b529;
     --preto-fundo: #00030C;
+
+    --fonte-principal: 'Inter';
 }
 
 body
 {
     background-color: var(--preto-fundo);
     color: var(--branco-principal);
-    font-family: "Inter";
+    font-family: var(--fonte-principal);
 }
 
 .cabecalho
