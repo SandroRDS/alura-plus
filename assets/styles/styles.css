@@ -237,7 +237,7 @@ body
 
 .rodape__links__lista__itens:hover
 {
-    text-decoration: underline;
+    color: var(--azul-botao);
 }
 
 .rodape__informacoes
